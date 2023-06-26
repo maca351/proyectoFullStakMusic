@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    background-color: rgb(142, 142, 248);
+}
+.fila1{
+    margin-top: 14px;
+    background-color: rgb(0, 0, 0);
+    font-size:50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(248, 252, 255);
+    text-align:right;
+    font-style:normal;
+}
+
