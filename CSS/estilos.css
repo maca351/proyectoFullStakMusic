@@ -4,15 +4,16 @@
 }
 
 .contenedor{
-    background-color: rgb(142, 142, 248);
+    background-color: rgb(231, 49, 216);
 }
 .fila1{
     margin-top: 14px;
     background-color: rgb(0, 0, 0);
-    font-size:50px;
+    font-size:200px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:rgb(248, 252, 255);
-    text-align:right;
+    text-align:center;
     font-style:normal;
+    
 }
 
